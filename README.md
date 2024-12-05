@@ -1,5 +1,5 @@
 My solutions to the monthly Jane Street puzzles:
 
-| Submitted | Correct | 
+| Submitted | Correct? | 
 | --- | ---|
-| Dec 2024 | N/A |
+| Dec 2024 | Yes |
